@@ -1,4 +1,4 @@
-.palabra{
+.Keyword{
     color: blue;
     font-weight: bold;
 }
@@ -11,7 +11,7 @@
 .op{
     color: red;
 }
-.syntax{
+.syntaxError{
     color: slategrey;
     text-decoration: underline;
     text-decoration-color: red;
